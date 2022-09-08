@@ -1,0 +1,24 @@
+{
+  "name": "random-str-msg-frts-npm",
+  "version": "1.0.0",
+  "description": "Radom String Messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NeyunJST/random-str-msg-frts-npm.git"
+  },
+  "keywords": [],
+  "author": "julian Salas <julian.salas.t7@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NeyunJST/random-str-msg-frts-npm/issues"
+  },
+  "homepage": "https://github.com/NeyunJST/random-str-msg-frts-npm#readme",
+  "bin": {
+    "random-str-msg-frts-npm": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
